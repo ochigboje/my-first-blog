@@ -25,7 +25,7 @@ SECRET_KEY = '-npd5t()bint&vt&e^n$__fc2jc$cs)+98j^_$(5td0)hdv$sy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.clt.com.ng']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 
